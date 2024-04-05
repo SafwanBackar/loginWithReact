@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": "f596",
+      "email": "safwan",
+      "password": "safwan"
+    },
+    {
+      "id": "b8e8",
+      "email": "ramin",
+      "password": "$2b$10$M4.R9t7DYxYpgw9zVIfqt.ris4bEpssyAuoLd3dqxPzgMcTs2kwaW"
+    },
+    {
+      "id": "6914",
+      "email": "djo",
+      "password": "$2b$10$vZodYoKAGpjwPnFh0BilS.6V.ji8oD5zpqbCmc8Pg1HbS3w8DsVRW"
+    },
+    {
+      "id": "2788",
+      "email": "ramen",
+      "password": "$2b$10$jzkocPBYuHYUs8aNfPU3iemyToAs6h6Nn46JCGCId4w3LNg2Edhn6"
+    },
+    {
+      "id": "7428",
+      "email": "we",
+      "password": "$2b$10$mJNCo9JRL8tvaaqD5CK1xev5ZyxemHBIxDe38yL4YEJoZmgcLt.8e"
+    }
+  ]
+}
